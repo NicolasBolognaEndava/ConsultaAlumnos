@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ConsultaAlumnos'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ACD4D21569F407885911ADEB78C353C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E62E9E492224BAD974D8CA953F0AAA6 }}
           package: .
